@@ -46,7 +46,7 @@
     "dompurify": "^3.3.3",
     "framer-motion": "^12.23.12",
     "function-plot": "^1.25.3",
-    "i18next": "^25.8.4",
+    "i18next": "^26.0.3",
     "i18next-browser-languagedetector": "^8.2.0",
     "jspdf": "^4.1.0",
     "jspdf-autotable": "^5.0.7",
